@@ -2,7 +2,9 @@
 
 This project is a complete full-stack application for managing university courses and their instances. It features a Java Spring Boot backend, a React frontend with Material UI, and is fully containerized with Docker.
 ## Website Result Screenshot after Running
-[[image alt][https://github.com/Navanish-Mehta/Course-Management-System/blob/579d3166f49e4ceabc265c258507bd3957907ef0/Screenshot%20(403).png]]
+![Screenshot (403)](https://github.com/user-attachments/assets/6d79ac29-e345-4647-b757-9064b51b49f9)
+![Screenshot (405)](https://github.com/user-attachments/assets/906b40be-3eed-4ed1-92bf-38f90867b363)
+
 ## Features
 
 - **Course Management**: Create, view, edit, and delete courses.
